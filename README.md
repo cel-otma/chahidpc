@@ -4,8 +4,8 @@
 
 <div align="center">
 <p>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=elmehdirahimi&show_icons=true&theme=radical" />
-<img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elmehdirahimi&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ChahidELOTMANY&show_icons=true&theme=radical" />
+<img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chahidpc&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
 
